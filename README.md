@@ -1,4 +1,4 @@
-# STA
+# Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers
 
 ## Requirements
 torch==1.9.0+cu111 \
